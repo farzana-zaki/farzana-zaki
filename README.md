@@ -4,6 +4,7 @@
 - 💞️ I’m an aspiring Data Scientist, and I'm currently looking for a data scientist role that will allow me to leverage my expertise and contribute to the success of a dynamic and innovative organization.
 - 📫 How to reach me: farzana.rahmat.zaki@gmail.com
 - 😄 Pronouns: She/her
+- Portfolio: https://github.com/farzana-zaki/farzana-zaki.github.io
 
 
 <!---
